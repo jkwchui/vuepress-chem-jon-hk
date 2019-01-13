@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev:dev": "vuepress dev dev",
-    "dev:build": "vuepress build dev"
+    "dev:build": "vuepress build"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.0-alpha.0",
